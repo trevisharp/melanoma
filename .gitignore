@@ -1,3 +1,7 @@
+# Unziped test and train folders
+test/
+train/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
